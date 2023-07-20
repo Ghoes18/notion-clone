@@ -124,14 +124,3 @@ export function Editor() {
     </>
   );
 }
-
-
-{/* <button className="text-zinc-200 text-sm flex items-center gap-1.5 font-medium leading-none hover:text-zinc-50 focus:text-zinc-50 focus:outline-none cursor-pointer">
-            <RxFontBold className="w-4 h-4" />
-          </button>
-          <button className="text-zinc-200 text-sm flex items-center gap-1.5 font-medium leading-none hover:text-zinc-50 focus:text-zinc-50 focus:outline-none cursor-pointer">
-            <RxFontItalic className="w-4 h-4" />
-          </button>
-          <button className="text-zinc-200 text-sm flex items-center gap-1.5 font-medium leading-none hover:text-zinc-50 focus:text-zinc-50 focus:outline-none cursor-pointer">
-            <RxStrikethrough className="w-4 h-4" />
-          </button> */}
